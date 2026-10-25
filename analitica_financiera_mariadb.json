@@ -1,0 +1,112 @@
+[
+    {
+        "numero_factura": "FAC-2024-88624",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Asociación contenido.",
+        "importe_total": 1359.77,
+        "proveedor": "Gómez y Aguilera S.L.N.E",
+        "email_proveedor": "renatoruano@example.net",
+        "tipo_mantenimiento": "Correctivo",
+        "descripcion_trabajo": "Hoy lado no junto buena.",
+        "equipo_afectado": "MAT-0423-ED"
+    },
+    {
+        "numero_factura": "FAC-2024-35823",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Mejores seguro cuanto servicio primeras.",
+        "importe_total": 1152.6,
+        "proveedor": "Inversiones del Levante S.Coop.",
+        "email_proveedor": "etenorio@example.com",
+        "tipo_mantenimiento": "Preventivo",
+        "descripcion_trabajo": "Recuerdo actitud hace el miedo conocer ha.",
+        "equipo_afectado": "MAT-4906-LP"
+    },
+    {
+        "numero_factura": "FAC-2024-07708",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Grande control sé.",
+        "importe_total": 1041.15,
+        "proveedor": "Promociones Inteligentes S.Com.",
+        "email_proveedor": "zairabaeza@example.org",
+        "tipo_mantenimiento": "Preventivo",
+        "descripcion_trabajo": "Recuerdo actitud hace el miedo conocer ha.",
+        "equipo_afectado": "MAT-4906-LP"
+    },
+    {
+        "numero_factura": "FAC-2024-28531",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Blanco propio primera.",
+        "importe_total": 1001.3,
+        "proveedor": "Promociones Inteligentes S.Com.",
+        "email_proveedor": "zairabaeza@example.org",
+        "tipo_mantenimiento": null,
+        "descripcion_trabajo": null,
+        "equipo_afectado": null
+    },
+    {
+        "numero_factura": "FAC-2024-56942",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Europa mitad nuevo.",
+        "importe_total": 926.19,
+        "proveedor": "Promociones Inteligentes S.Com.",
+        "email_proveedor": "zairabaeza@example.org",
+        "tipo_mantenimiento": null,
+        "descripcion_trabajo": null,
+        "equipo_afectado": null
+    },
+    {
+        "numero_factura": "FAC-2024-18044",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Muerte servicios río del.",
+        "importe_total": 782.39,
+        "proveedor": "Hnos Fonseca S.Com.",
+        "email_proveedor": "dan21@example.org",
+        "tipo_mantenimiento": "Sustitución",
+        "descripcion_trabajo": "Hombres pablo dan texto demás lópez.",
+        "equipo_afectado": "MAT-7443-PY"
+    },
+    {
+        "numero_factura": "FAC-2024-60786",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Imagen área pocos.",
+        "importe_total": 719.22,
+        "proveedor": "Hnos Fonseca S.Com.",
+        "email_proveedor": "dan21@example.org",
+        "tipo_mantenimiento": "Preventivo",
+        "descripcion_trabajo": "Esas revolución instituto dado.",
+        "equipo_afectado": "MAT-5225-ZC"
+    },
+    {
+        "numero_factura": "FAC-2024-43655",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Demasiado conocimiento ciencia.",
+        "importe_total": 570.65,
+        "proveedor": "Teruel y asociados S.A.",
+        "email_proveedor": "egoni@example.com",
+        "tipo_mantenimiento": "Sustitución",
+        "descripcion_trabajo": "Nuestro iba mal.",
+        "equipo_afectado": "MAT-0423-ED"
+    },
+    {
+        "numero_factura": "FAC-2024-98148",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Camino realizar él.",
+        "importe_total": 345.74,
+        "proveedor": "Farmaceútica Madrigal S.L.N.E",
+        "email_proveedor": "raimundo91@example.org",
+        "tipo_mantenimiento": null,
+        "descripcion_trabajo": null,
+        "equipo_afectado": null
+    },
+    {
+        "numero_factura": "FAC-2024-33084",
+        "fecha_emision": "2026-10-21",
+        "concepto": "Allí informe personas mejores.",
+        "importe_total": 146.78,
+        "proveedor": "Teruel y asociados S.A.",
+        "email_proveedor": "egoni@example.com",
+        "tipo_mantenimiento": "Sustitución",
+        "descripcion_trabajo": "Hombres pablo dan texto demás lópez.",
+        "equipo_afectado": "MAT-7443-PY"
+    }
+]

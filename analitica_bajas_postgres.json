@@ -1,0 +1,38 @@
+[
+    {
+        "id_baja": 3,
+        "fecha_baja": "2026-08-27",
+        "motivo_baja": "Pueblo siquiera ella defensa zona.",
+        "coste_reciclaje": 1.7,
+        "codigo_inventario": "MAT-0516-JL",
+        "valor_original": 697.98,
+        "nombre_categoria": "Informática",
+        "ultima_aula_ubicacion": "Aula 110",
+        "autorizado_por": "Elena Llanos Mínguez Moraleda Priego",
+        "rol_autorizador": "Administrativo"
+    },
+    {
+        "id_baja": 1,
+        "fecha_baja": "2026-02-18",
+        "motivo_baja": "A quiero centro.",
+        "coste_reciclaje": 0.89,
+        "codigo_inventario": "MAT-9058-DL",
+        "valor_original": 667.77,
+        "nombre_categoria": "Deportes",
+        "ultima_aula_ubicacion": "Aula 108",
+        "autorizado_por": "Raúl Aller-Roura Valero Tamarit",
+        "rol_autorizador": "Conserje"
+    },
+    {
+        "id_baja": 2,
+        "fecha_baja": "2025-10-30",
+        "motivo_baja": "Primera banco j amigos por.",
+        "coste_reciclaje": 6.72,
+        "codigo_inventario": "MAT-8526-MZ",
+        "valor_original": 559.24,
+        "nombre_categoria": "Laboratorio",
+        "ultima_aula_ubicacion": "Aula 103",
+        "autorizado_por": "Maura del Abril Escamilla Galindo",
+        "rol_autorizador": "Conserje"
+    }
+]

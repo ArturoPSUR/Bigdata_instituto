@@ -1,0 +1,5 @@
+Faker
+#MySQL MariaDB
+mysql-connector-python 
+#PostgreSQL
+psycopg2-binary 
